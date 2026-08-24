@@ -1,0 +1,7 @@
+project_id = "gjlufvgddovutlyoicjs"
+
+[functions.import-backup]
+verify_jwt = false
+
+[functions.backup-global]
+verify_jwt = false
