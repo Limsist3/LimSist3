@@ -1,0 +1,3 @@
+VITE_SUPABASE_PROJECT_ID="hhyxsbkvyargkzxwjpgl"
+VITE_SUPABASE_PUBLISHABLE_KEY="sb_publishable_JPp9OVFhYN7dsKeGHgchjQ_1kzMe_HQ"
+VITE_SUPABASE_URL="https://hhyxsbkvyargkzxwjpgl.supabase.co"
