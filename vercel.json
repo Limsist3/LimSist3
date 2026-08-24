@@ -23,4 +23,3 @@
       "source": "/(.*)",
       "destination": "/index.html"
     }
-  ]
